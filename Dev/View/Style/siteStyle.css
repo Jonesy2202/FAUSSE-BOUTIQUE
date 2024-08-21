@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Englebert&family=Playpen+Sans:wght@100..800&family=Sometype+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+
+/* Peroduct Card */
+
+.cardImage {
+    object-fit: contain;
+    height: 200px;
+    width: 100%;
+    padding: 10px;
+}
+
+/* Google fonts - symbols */
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 1,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24
+}
+
+/* Dropdowns */
+.select {
+    padding: 6px;
+    font-size: 16px;
+    color: #333;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Search inputs */
+#itemSearch {
+    width: 100%;
+    line-height: 40px
+}
+
+/* Nav bar */
+nav {
+    background-color: #660033;
+    color: #FFFFFF;
+    border: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    color: #FFFFFF;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar-expand-lg {
+    padding-top: -15px;
+}
+
+.navbar a:hover {
+    background-color: #3AAFA9;
+    color: #FFFFFF;
+}
+
+.navbar a.active {
+    background-color: #3AAFA9;
+    color: #17252A;
+}
+
+
+/* Fonts */
+.site-name {
+    font-family: "Nanum Gothic Coding", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Backgrounds */
+
+header {
+    background-color: #660033;
+    padding-bottom: 5px;
+    color: whitesmoke;
+}
+
+body {
+    background-color: #33999917;
+}
+
+/* Buttons */
+#undoButton {
+    background-color: #339999;
+    color: whitesmoke;
+}
