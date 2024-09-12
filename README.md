@@ -1,0 +1,1 @@
+Fausse Boutique is a fake e-commerce store that uses a fake online store API called FakeStoreAPI that has all of the data needed to make an e-commerce site with products, users and baskets. This project is still a work in progress so there isn't much to show but I have taken some of my inspiration from some high end shopping sites to give it a professional look.
